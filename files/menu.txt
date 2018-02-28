@@ -1,0 +1,12 @@
+1. Dashboard
+    Dashboard
+2. Administrador
+   Usuarios -- Aquí se podrá crear, activar, desactivar, eliminar usuarios
+   Eliminar, editar inventario.
+3. Inventario
+   Ver inventario -- Aquí se podra buscar el inventario 
+   Movimientos -- Agregar una entrada o salida
+4. Reportes
+   Reporte de inventario -- El Reporte de inventario por índice crítico.
+
+   
